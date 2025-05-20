@@ -1,11 +1,11 @@
 body {
-    background-color: #e0f0ff; /* azul suave */
+    background-color: #e0f0ff; 
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
 h1 {
-    color: #2a52be; /* cor diferente */
+    color: #2a52be; 
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ ul {
 }
 
 ul li {
-    margin-bottom: 10px; /* espaçamento entre itens */
+    margin-bottom: 10px; 
 }
 
 img {
@@ -33,27 +33,27 @@ img {
 table {
   border-collapse: collapse;
   margin-top: 20px;
-  width: auto; /* Só ocupa o necessário */
+  width: auto; 
 }
 
 td {
   border: 1px solid #ccc;
-  padding: 5px 10px; /* Menor espaçamento = tabela mais compacta */
+  padding: 5px 10px; 
   vertical-align: middle;
 }
 
 td:first-child {
   font-weight: bold;
-  white-space: nowrap; /* Impede quebra de linha */
+  white-space: nowrap; 
 }
 
 td:last-child {
-  width: 100px; /* Menor largura para coluna das imagens */
+  width: 100px; 
   text-align: center;
 }
 
 td img {
-  width: 700px; /* Tamanho decente para imagem */
+  width: 700px; 
   height: auto;
   border-radius: 8px;
 }
@@ -78,12 +78,12 @@ a:hover {
 }
 
 #game-link:hover {
-  color: #ff6600; /* Uma cor contrastante para destacar no hover */
+  color: #ff6600; 
   text-decoration: underline;
 }
 
 
 h2 {
-  margin-top: 30px; /* Espaço entre a tabela e o título do link */
+  margin-top: 30px; 
 }
 
